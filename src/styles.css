@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+html, body{
+    height: 100%;
+}
+
+h3{
+    color: white;
+}
+
+a{
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#sidebar{
+    height: 100%;
+    min-height: 100vh;
+    min-width: 180px;
+}
